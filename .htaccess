@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteRule "TrangChu.html" "index.php"
+RewriteRule "DatLichKham1.html" "makeAppointmentStep1.php"
+RewriteRule "DatLichKham2.html" "makeAppointmentStep2.php"
+RewriteRule "DatLichKham3.html" "makeAppointmentStep3.php"
+
+RewriteRule "ThongTinCaNhan.html" "info_Patient.php"
+RewriteRule "XemLichKham.html" "appointment.php"
+RewriteRule "LichSuKham.html" "history.php"
+RewriteRule "CapNhatTaiKhoan.html" "private_setup.php"
+
